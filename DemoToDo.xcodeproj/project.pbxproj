@@ -17,6 +17,7 @@
 		641C5E482B4E6E19002534DA /* DataManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 641C5E472B4E6E19002534DA /* DataManager.swift */; };
 		645D03562B4E7981008E675C /* TableCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 645D03552B4E7981008E675C /* TableCell.swift */; };
 		648644772B4E967700855859 /* Exercise.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 648644752B4E967700855859 /* Exercise.xcdatamodeld */; };
+		64E81F662B4EDBF000C04F99 /* ToDo.gif in Resources */ = {isa = PBXBuildFile; fileRef = 64E81F652B4EDBF000C04F99 /* ToDo.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,6 +32,7 @@
 		641C5E472B4E6E19002534DA /* DataManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataManager.swift; sourceTree = "<group>"; };
 		645D03552B4E7981008E675C /* TableCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableCell.swift; sourceTree = "<group>"; };
 		648644762B4E967700855859 /* Exercise.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Exercise.xcdatamodel; sourceTree = "<group>"; };
+		64E81F652B4EDBF000C04F99 /* ToDo.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = ToDo.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -70,6 +72,7 @@
 				641C5E422B4E6778002534DA /* MainBuilder.swift */,
 				641C5E472B4E6E19002534DA /* DataManager.swift */,
 				645D03552B4E7981008E675C /* TableCell.swift */,
+				64E81F652B4EDBF000C04F99 /* ToDo.gif */,
 				648644752B4E967700855859 /* Exercise.xcdatamodeld */,
 				641C5E332B4E6571002534DA /* Assets.xcassets */,
 				641C5E352B4E6571002534DA /* LaunchScreen.storyboard */,
@@ -144,6 +147,7 @@
 			files = (
 				641C5E372B4E6571002534DA /* LaunchScreen.storyboard in Resources */,
 				641C5E342B4E6571002534DA /* Assets.xcassets in Resources */,
+				64E81F662B4EDBF000C04F99 /* ToDo.gif in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
